@@ -1,0 +1,8 @@
+{
+  "name": "my-proxy-server",
+  "version": "1.0.0",
+  "main": "api/proxy.js",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
